@@ -1,0 +1,92 @@
+/* Estilo a nivel global */
+
+/* Border para las imagenes */
+.border {
+    border: 4px solid black;
+}
+
+/* Imagen del Body */
+.img_content {
+    background: url('../img/BD.png') no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 850px;
+    margin: 0px;
+    padding: 0px;
+
+}
+/* Imagen Primera Sección */
+.img-person {
+    background: url('../img/foto.png') no-repeat;
+    background-size: 100% 90%;
+    height: 700px;
+    margin-left: 30px;
+    margin-right:-25px;
+    padding: 0px;
+}
+/* Imagen Segunda Sesión */
+.img_car{
+    background: url('../img/FOTO2.png ')no-repeat;
+    background-size: 100% 100%;
+
+    height: 600px;
+    margin-left: 30px;
+    margin-right:0px;
+    padding: 0px;
+}
+/* FONDO SEGUNDA PARTE */
+.font_two{
+    background: url('../img/FONDO_3.png ')no-repeat;
+    background-size: 100% 90%;
+    margin-bottom: -480px;
+    height: auto;
+    margin-left: 0px;
+    margin-right:0px;
+    padding: 0;
+}
+/* FONDO SEGUNDA PARTE */
+.two_img_font{
+    background: url('../img/FORMA1.png ')no-repeat;
+    background-size: 100% 90%;
+    /* margin-bottom: -480px; */
+    height: 500px;
+    margin-left: 0px;
+    margin-right:0px;
+    padding: 0;
+}
+/* Tercerá Imagen */
+.terc_img{
+    background: url('../img/FOTO3.png')no-repeat;
+    /* background-size: 80% 100%; */
+    height: 800px;
+    margin-left: 10%;
+    /* margin-right:-35px; */
+    padding: 0;
+}
+/* Texto Segunda Img */
+.sobre_txt_2P{
+    margin-top:300px !important;;
+    margin: -20px;
+    padding: 20px;
+}
+/* Texto Sobre Nosotros*/
+.sobre_txt{
+    margin: 50px;
+    padding: 20px;
+}
+/* Footer */
+footer {
+    position:relative;
+    left: 0;
+    bottom: 0;
+    width: 100%; 
+    background-color:#97E6FC ;
+    height: 400px;
+ }
+/* Colores */
+.C_white{
+    color: white;
+}
+.C_Black{
+    color: black;
+}

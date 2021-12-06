@@ -1,0 +1,11 @@
+body{
+    background:url('../img/fondo.png');
+    background-size: 100% 100%;
+    background-position: center center;
+    overflow: hidden !important;
+}
+
+.old{
+    color: #000;
+    text-decoration: none;
+}
